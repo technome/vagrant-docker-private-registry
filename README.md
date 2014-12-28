@@ -1,5 +1,5 @@
-vagrant-grails
-==============
+vagrant docker private registry
+===============================
 
 Vagrant VM configuration for running a private docker registry
 
